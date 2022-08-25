@@ -10,6 +10,7 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
+    flex-direction: column;
 }
 .container{
     padding: 40px 60px;
